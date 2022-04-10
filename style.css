@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(47, 100, 100);
+}
+.image_result{
+    background-color: rgb(181, 225, 250);
+    margin-top: 130px;
+    width: 80%;
+    height: 50%;
+    box-shadow: 5px 5px 50px rgb(50, 107, 124);
+    padding-top: 15px;
+    padding-bottom: 100px;
+   /* border-radius: 20px;
+    border-width: 10px;
+    border-color: rgb(117, 211, 235);
+    border-style:outset; */
+}
+
+#test{
+    width:300px;
+    height:300px;
+    margin-right: 100px;
+}
+
+.testyimg, #text_img{
+float:left;
+margin-left: 100px;
+}
+
+.mini_con{
+    margin-right: 10px;
+    margin-bottom: 200px;
+}
+
+#text_img, .mini_con{
+    color: white;
+}
+
+.footer_right{
+    background-color: azure;
+    margin-top:185px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:rgb(18, 139, 139);
+}
+
+
